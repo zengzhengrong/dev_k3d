@@ -6,15 +6,15 @@ go version go1.15.6 linux/amd64
 
 
 ### command
-docker
-docker-compose
-kubectl
-kubens
-kubectx
-kubectl-krew
-k3d
-k3d-tools
-helm
+docker  
+docker-compose  
+kubectl  
+kubens  
+kubectx  
+kubectl-krew  
+k3d  
+k3d-tools  
+helm  
 
 
 ### Alias for command
