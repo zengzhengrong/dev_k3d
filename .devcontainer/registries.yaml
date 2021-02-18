@@ -1,0 +1,8 @@
+mirrors:
+  "docker.io":
+    endpoint:
+      - "https://fogjl973.mirror.aliyuncs.com"
+      - "https://registry-1.docker.io"
+  "quay.io":
+    endpoint:
+      - "quay-mirror.qiniu.com"
