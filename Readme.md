@@ -1,4 +1,4 @@
-[![GitHub Socialify][socialify-image]][socialify-edit-link]
+![image](https://socialify.git.ci/zengzhengrong/dev_k3d/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2Francher%2Fk3d%2Fraw%2Fmain%2Fdocs%2Fstatic%2Fimg%2Fk3d_logo_black_blue.svg&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
 
 ## Integration 
 vscode dev container for k3d base vscode-go
